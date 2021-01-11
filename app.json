@@ -10,6 +10,7 @@
           "id": "live",
           "name": "Live System",
           "description": "Produktionssystem ZVWG",
+          "icon": "https://zvwg.github.io/config/icons/online.png"
           "settings": {
             "endpointUrl": "https://zvwg3.derpatriot.de/REST/v1"
           }
@@ -18,6 +19,7 @@
           "id": "test",
           "name": "Testsystem",
           "description": "Testsystem ZVWG",
+          "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
             "endpointUrl": "https://test.zvwg.de/REST/v1"
           }
