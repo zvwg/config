@@ -10,7 +10,7 @@
           "id": "live",
           "name": "Live System",
           "description": "Produktionssystem ZVWG",
-          "icon": "https://zvwg.github.io/config/icons/online.png"
+          "icon": "https://zvwg.github.io/config/icons/online.png",
           "settings": {
             "endpointUrl": "https://zvwg3.derpatriot.de/REST/v1"
           }
