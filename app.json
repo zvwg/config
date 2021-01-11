@@ -2,10 +2,12 @@
   "version": 1,
   "realms": [
     {
+      "id": "zvwg",
       "name": "ZVWG Zeitungsvertriebs- und Werbegesellschaft mbH",
       "description": "",
       "environments": [
         {
+          "id": "live",
           "name": "Live System",
           "description": "Produktionssystem ZVWG",
           "settings": {
@@ -13,6 +15,7 @@
           }
         },
         {
+          "id": "test",
           "name": "Testsystem",
           "description": "Testsystem ZVWG",
           "settings": {
