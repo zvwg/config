@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "realms": [
+    {
+      "name": "ZVWG Zeitungsvertriebs- und Werbegesellschaft mbH",
+      "description": "",
+      "environments": [
+        {
+          "name": "Live System",
+          "description": "Produktionssystem ZVWG",
+          "settings": {
+            "endpointUrl": "https://zvwg3.derpatriot.de/REST/v1"
+          }
+        },
+        {
+          "name": "Testsystem",
+          "description": "Testsystem ZVWG",
+          "settings": {
+            "endpointUrl": "https://test.zvwg.de/REST/v1"
+          }
+        }
+      ]
+    }
+  ]
+}
