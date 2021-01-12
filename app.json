@@ -21,7 +21,7 @@
           "description": "Testsystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "https://test.zvwg.de/REST/v1"
+            "endpointUrl": "https://intg.zvwg.de/REST/v1"
           }
         }
       ]
