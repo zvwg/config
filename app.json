@@ -23,6 +23,15 @@
           "settings": {
             "endpointUrl": "https://intg.zvwg.de/REST/v1"
           }
+        },
+        {
+          "id": "local",
+          "name": "Local Dev",
+          "description": "Dev System ZVWG",
+          "icon": "https://zvwg.github.io/config/icons/lock.png",
+          "settings": {
+            "endpointUrl": "http://192.168.178.120:8000/REST/v1"
+          }
         }
       ]
     }
