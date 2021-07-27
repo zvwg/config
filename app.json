@@ -30,7 +30,7 @@
           "description": "Dev System ZVWG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "http://192.168.178.120:8000/REST/v1"
+            "endpointUrl": "http://192.168.178.214:8101/REST/v1"
           }
         }
       ]
