@@ -21,16 +21,7 @@
           "description": "Testsystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "https://intg.zvwg.de/REST/v1"
-          }
-        },
-        {
-          "id": "local",
-          "name": "Local Dev",
-          "description": "Dev System ZVWG",
-          "icon": "https://zvwg.github.io/config/icons/lock.png",
-          "settings": {
-            "endpointUrl": "http://192.168.178.214:8101/REST/v1"
+            "endpointUrl": "https://service.zvwg.de/REST/v1"
           }
         }
       ]
