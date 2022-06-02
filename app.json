@@ -12,7 +12,8 @@
           "description": "Produktionssystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/online.png",
           "settings": {
-            "endpointUrl": "https://zvwg3.derpatriot.de/REST/v1"
+            "endpointUrl": "https://zvwg3.derpatriot.de/REST/v1",
+            "minimumAppVersionRequired": "1.4.1"
           }
         },
         {
@@ -21,7 +22,8 @@
           "description": "Testsystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "https://service.zvwg.de/REST/v1"
+            "endpointUrl": "https://service.zvwg.de/REST/v1",
+            "minimumAppVersionRequired": "1.4.2"
           }
         }
       ]
