@@ -25,6 +25,16 @@
             "endpointUrl": "https://service.zvwg.de/REST/v1",
             "minimumAppVersionRequired": "1.4.2"
           }
+        },
+        {
+          "id": "dev",
+          "name": "Entwicklungssystem",
+          "description": "DEV ZVWG",
+          "icon": "https://zvwg.github.io/config/icons/lock.png",
+          "settings": {
+            "endpointUrl": "http://192.168.2.1/REST/v1",
+            "minimumAppVersionRequired": "1.4.2"
+          }
         }
       ]
     }
