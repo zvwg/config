@@ -7,6 +7,17 @@
       "description": "",
       "environments": [
         {
+          "id": "old",
+          "name": "Alter Server",
+          "description": "Alte App ZVWG",
+          "icon": "https://zvwg.github.io/config/icons/lock.png",
+          "settings": {
+            "endpointUrl": "https://service.zvwg.de/REST/v1",
+            "minimumAppVersionRequired": "1.5.1",
+            "pushEnabled": true
+          }
+        },
+        {
           "id": "live",
           "name": "Live System",
           "description": "Produktionssystem ZVWG",
@@ -14,17 +25,6 @@
           "settings": {
             "endpointUrl": "https://zvwg3.derpatriot.de/REST/v1",
             "minimumAppVersionRequired": "1.4.1",
-            "pushEnabled": false
-          }
-        },
-        {
-          "id": "test",
-          "name": "Testsystem",
-          "description": "Testsystem ZVWG",
-          "icon": "https://zvwg.github.io/config/icons/lock.png",
-          "settings": {
-            "endpointUrl": "https://service.zvwg.de/REST/v1",
-            "minimumAppVersionRequired": "1.4.2",
             "pushEnabled": false
           }
         },
