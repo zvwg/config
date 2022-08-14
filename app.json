@@ -34,8 +34,8 @@
           "description": "ZVWG INTG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "http://192.168.2.1:8000/REST/v1",
-            "minimumAppVersionRequired": "1.4.2",
+            "endpointUrl": "https://service-intg.zvwg.de/REST/v1",
+            "minimumAppVersionRequired": "1.5.1",
             "pushEnabled": true
           }
         },
@@ -45,7 +45,7 @@
           "description": "DEV ZVWG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "https://service-intg.zvwg.de/REST/v1",
+            "endpointUrl": "http://192.168.2.1:8000/REST/v1",
             "minimumAppVersionRequired": "1.5.1",
             "pushEnabled": true
           }
