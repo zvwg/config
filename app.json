@@ -35,8 +35,9 @@
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
             "endpointUrl": "https://service-intg.zvwg.de/REST/v1",
-            "minimumAppVersionRequired": "1.5.1",
-            "pushEnabled": true
+            "minimumAppVersionRequired": "1.5.4",
+            "pushEnabled": true,
+            "messageBroker": "wss://ws-intg.zvwg.de/delivery/updates"
           }
         },
         {
