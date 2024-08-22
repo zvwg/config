@@ -46,7 +46,7 @@
           "description": "DEV ZVWG",
           "icon": "https://zvwg.github.io/config/icons/lock.png",
           "settings": {
-            "endpointUrl": "http://172.20.20.223:8000/REST/v1",
+            "endpointUrl": "http://172.20.40.154:8000/REST/v1",
             "minimumAppVersionRequired": "1.5.1",
             "pushEnabled": true
           }
