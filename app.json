@@ -23,7 +23,7 @@
           "description": "Produktionssystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/online.png",
           "settings": {
-            "endpointUrl": "https://service.zvwg.de/REST/v1",
+            "endpointUrl": "https://zvwg-prod.dw83.de/REST/v1",
             "minimumAppVersionRequired": "1.4.1",
             "pushEnabled": true
           }
