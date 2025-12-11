@@ -29,6 +29,17 @@
           }
         },
         {
+          "id": "backup",
+          "name": "Backup Live System",
+          "description": "Backup Produktionssystem ZVWG",
+          "icon": "https://zvwg.github.io/config/icons/online.png",
+          "settings": {
+            "endpointUrl": "https://zvwg-prod.dw83-b.de/REST/v1",
+            "minimumAppVersionRequired": "1.4.1",
+            "pushEnabled": true
+          }
+        },
+        {
           "id": "intg",
           "name": "Integrationsumgebung",
           "description": "ZVWG INTG",
