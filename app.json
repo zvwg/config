@@ -18,7 +18,7 @@
           }
         },
         {
-          "id": "backup",
+          "id": "live",
           "name": "Live System",
           "description": "Produktionssystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/online.png",
@@ -29,7 +29,7 @@
           }
         },
         {
-          "id": "live",
+          "id": "backup",
           "name": "Backup Live System",
           "description": "Backup Produktionssystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/online.png",
