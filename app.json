@@ -12,7 +12,7 @@
           "description": "Produktionssystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/online.png",
           "settings": {
-            "endpointUrl": "https://zvwg.lpsrv.net/REST/v1",
+            "endpointUrl": "https://service.zvwg.de/REST/v1",
             "minimumAppVersionRequired": "1.4.1",
             "pushEnabled": true
           }
@@ -23,7 +23,7 @@
           "description": "Backup Produktionssystem ZVWG",
           "icon": "https://zvwg.github.io/config/icons/online.png",
           "settings": {
-            "endpointUrl": "https://zvwg.lpsrv.net/REST/v1",
+            "endpointUrl": "https://service.zvwg.de/REST/v1",
             "minimumAppVersionRequired": "1.4.1",
             "pushEnabled": true
           }
